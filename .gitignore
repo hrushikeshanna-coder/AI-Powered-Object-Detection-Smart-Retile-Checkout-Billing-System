@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+
+# Model files
+*.h5
+*.keras
+*.pt
+
+# Dataset folders
+Dataset/
+Aug_Dataset/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
